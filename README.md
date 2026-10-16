@@ -1,4 +1,4 @@
-# Tarefas-em-C-Manipulcao-de-Variaveis
+# Tarefas-em-C-Manipulacao-de-Variaveis
 Tarefas utilizando C no curso técnico de informática do Instituto Federal Catarinense campus São Bento do Sul, realizado em 18 de ago. de 2025
 
 Atividades:
